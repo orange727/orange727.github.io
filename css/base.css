@@ -1,0 +1,8 @@
+.head {
+    padding: 50px;
+    text-align: center;
+}
+
+.head small {
+    display: block;
+}
