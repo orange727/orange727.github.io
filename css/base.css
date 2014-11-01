@@ -6,3 +6,8 @@
 .head small {
     display: block;
 }
+
+.tile img {
+    width: 112px;
+    height: 111px;
+}
